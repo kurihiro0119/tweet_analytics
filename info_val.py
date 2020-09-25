@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # coding: UTF-8
 
+#情報
 Consumer_key = 'gV9rrGZhUbU1QCujMPhYxCGVD'
 Consumer_secret = 'rPNQCr0pwWRyUKRSuZSQZ2PVd1SkfRIoNlZbmqY5RVw7wyKfjn'
 Access_token = '154103818-fe4tV19Khef68fKO3KRfypbFtHQSBQW1rHOWumbG'
